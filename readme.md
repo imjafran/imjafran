@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Jafran 🖖</h1>
 
->#### I'm a FullStack Wep Application Software Developer and work for [WPPOOL](https://www.wppool.dev) as *Senior Software Engineer*.
+>### I'm a FullStack Wep Application Software Developer and work for [WPPOOL](https://www.wppool.dev) as *Senior Software Engineer*.
 
->#### I am not a very hard-working person, can not waste more time than it needs. I just find the easiest and perfect solution to a problem. Unlike a donkey who works all day and nothing comes out, I prefer working smartly. Neither am I a selfless person nor a man without a personal life. I just keep balances. I make mistakes, take wrong decisions, but I learn from the mistakes I made. 
+>### I am not a very hard-working person, can not waste more time than it needs. I just find the easiest and perfect solution to a problem. Unlike a donkey who works all day and nothing comes out, I prefer working smartly. Neither am I a selfless person nor a man without a personal life. I just keep balances. I make mistakes, take wrong decisions, but I learn from the mistakes I made. 
  
->#### I still solve problems with JavaScript and PHP, promot clean and contemporary software architecture. I have published projects on `NPM`, `Packagist`, `WordPress` and `Shopify appstore` as open-source program. I believe, coding is science and science should be free. 
+>### I still solve problems with JavaScript and PHP, promot clean and contemporary software architecture. I have published projects on `NPM`, `Packagist`, `WordPress` and `Shopify appstore` as open-source program. I believe, coding is science and science should be free. 
 ___
 
-[Facebook]: https://www.linkedin.com/in/tobse-fritz-76579b200/
-[Linkedin]: https://www.linkedin.com/in/tobse-fritz-76579b200/
-[WordPress]: https://www.linkedin.com/in/tobse-fritz-76579b200/  
-[Packagist]: https://www.linkedin.com/in/tobse-fritz-76579b200/  
-[NPM]: https://www.linkedin.com/in/tobse-fritz-76579b200/  
+[Facebook]: https://www.facebook.com/IamJafran/
+[Linkedin]: https://www.linkedin.com/in/iamjafran/
+[WordPress]: https://profiles.wordpress.org/iamjafran/  
+[Packagist]: https://packagist.org/users/iamjafran/packages/  
+[NPM]: https://www.npmjs.com/settings/iamjafran/packages  
 [GitHub]: https://github.com/imjafran 
-[Stackoverflow]: https://stackoverflow.com/users/story/4198170?view=Timeline
+[Stackoverflow]: https://stackoverflow.com/users/11303820/jafran-hasan
 [email]: mailto:jafraaan@gmail.com 
  
 
