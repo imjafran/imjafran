@@ -43,12 +43,12 @@ ___
 | **JavScript** | VanillaJS, TypeScript, NodeJS, ExpressJS, ElectronJS, VueJS, React, jQuery, Ajax, Modern JavaScript (ES6+, ESNext), asynchronous operations, OOP, webRTC, etc |
 | **CSS** | CSS3, SASS, LESS, TailwindCSS, Bootstrap etc |
 | **PHP** | OOP, MVC architecture, WordPress (Theme & Plugin development), Laravel, Codeigniter, UnitTesting |
-| **Database** | MySQL, NoSQL |
-| **WordPress** | Proven Premium WordPress Plugin Developer. Contributed to WordPress repositories, published 5+ successful premium plugins on WordPress.org. Well experienced in WordPress hooks, APIs, ajax, databases, and core functionalities. Built Gutenberg blocks, Elementor widgets, integrated with hundreds of tools. |
-| **NodeJS** | Worked as MEVN stack. Well experienced in ExpressJS and MongoDB, built SaaS applications that are serving for premium subscriptions. These are generating huge revenues. Clear concept on WebSocket, real-time communication.  Worked on both Desktop and Mobile applications using ElectronJS and React Native.  |
+| **Database** | MySQL, NoSQL (mongodb) |
+| **WordPress** | Developed Premium WordPress Plugin.Contributed to WordPress repositories, published 5+ successful premium plugins on WordPress.org. Well experienced in WordPress hooks, APIs, ajax, queries, metabox, and core functionalities. Built Gutenberg blocks, Elementor widgets, integrated with hundreds of tools. |
+| **NodeJS** | Worked as MEVN stack. Well experienced in ExpressJS and MongoDB. Worked on SaaS applications, WebSockets, real-time communications. Worked on both Desktop and Mobile applications using ElectronJS and React Native.|
 | **Specialty** | Algorithmic and resource friendly software architecture, software security and unit testing. REST/RESTfull API, WebSocket, Webhooks, Database Design, Software architecture and pattern. Agile Scrum, SaaS, Headless WordPress, Single Page Application, Serverless app, JWT, oAuth2 |
-| **DevOps** | AWS Lightsail, Google Cloud |
-| **Utility** | Version Control (Git, SVN), CLI, Bundler (webpack-cli)|
+| **DevOps** | AWS, Google Cloud |
+| **Utility** | Version Control (Git, SVN), CLI, Bundler (webpack)|
 | **Unix** | Very comfortable and native with Linux Environment (LAMPP Stack). Well experienced in Unix Shell, SSH, CLI, and other Unix tools. |
 | **Others** | Well skilled and experienced in developing Shopify app, Slack app, Chrome extensions, Mobile apps using Dart & Flutter, etc. Experienced in integrating custom payment getaway/interface (Stripe, Paypal) |
 
