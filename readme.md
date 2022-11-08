@@ -31,7 +31,7 @@ ___
 [<img alt="WordPress" src="https://img.shields.io/badge/wordpress-7-f0f0f0.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />][WordPress]
 [<img alt="NPM" src="https://img.shields.io/badge/npm-6-ee0000.svg?&style=for-the-badge&logo=npm&logoColor=white" />][NPM]
 [<img alt="Packagist" src="https://img.shields.io/badge/packagist-1-darkorange.svg?&style=for-the-badge&logo=packagist&logoColor=white" />][Packagist]
-[<img alt="Webstore" src="https://img.shields.io/badge/chromewebstore-1-red.svg?&style=for-the-badge&logo=packagist&logoColor=white" />][Chrome Webstore]
+[<img alt="Webstore" src="https://img.shields.io/badge/webstore-1-red.svg?&style=for-the-badge&logo=packagist&logoColor=white" />][Webstore]
 [<img alt="GitHub Repo Counter" src="https://badges.pufler.dev/repos/imjafran?style=for-the-badge&logo=Git&color=638FDA&logoColor=white"/>][GitHub]
 
 
