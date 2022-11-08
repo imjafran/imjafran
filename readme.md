@@ -28,9 +28,10 @@ ___
 
 ### Opensource programs published on
 
-[<img alt="EMail" src="https://img.shields.io/badge/wordpress-5-f0f0f0.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />][WordPress]
-[<img alt="EMail" src="https://img.shields.io/badge/npm-3-ee0000.svg?&style=for-the-badge&logo=npm&logoColor=white" />][NPM]
-[<img alt="EMail" src="https://img.shields.io/badge/packagist-1-darkorange.svg?&style=for-the-badge&logo=packagist&logoColor=white" />][Packagist]
+[<img alt="WordPress" src="https://img.shields.io/badge/wordpress-7-f0f0f0.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />][WordPress]
+[<img alt="NPM" src="https://img.shields.io/badge/npm-6-ee0000.svg?&style=for-the-badge&logo=npm&logoColor=white" />][NPM]
+[<img alt="Packagist" src="https://img.shields.io/badge/packagist-1-darkorange.svg?&style=for-the-badge&logo=packagist&logoColor=white" />][Packagist]
+[<img alt="Webstore" src="https://img.shields.io/badge/chromewebstore-1-red.svg?&style=for-the-badge&logo=packagist&logoColor=white" />][Chrome Webstore]
 [<img alt="GitHub Repo Counter" src="https://badges.pufler.dev/repos/imjafran?style=for-the-badge&logo=Git&color=638FDA&logoColor=white"/>][GitHub]
 
 
@@ -50,8 +51,8 @@ ___
 | **DevOps** | AWS, Google Cloud |
 | **Utility** | Version Control (Git, SVN), CLI, Bundler (webpack)|
 | **Unix** | Very comfortable and native with Linux Environment (LAMPP Stack). Well experienced in Unix Shell, SSH, CLI, and other Unix tools. |
+| **Browser** | Developed Browser Web Extenstion, which is published on Chrome Webstore and available for Chrome, Brave and other chromium instances. |
 | **Others** | Well skilled and experienced in developing Shopify app, Slack app, Chrome extensions, Mobile apps using Dart & Flutter, etc. Experienced in integrating custom payment getaway/interface (Stripe, Paypal) |
-
 
 # Professional Experiences
 #### [WPPOOL](https://wppool.dev)
@@ -69,6 +70,10 @@ February 2019 - December 2019
 #### [Global IT & Language Institute](https://global.edu.bd/)
 *Department Head - Web Design & Development* <br>
 March 2018 – September 2019
+
+#### [ReturnXero](https://global.edu.bd/)
+*Web Developer* <br>
+December 2017 – March 2018
 
 
 # Academic Qualification
