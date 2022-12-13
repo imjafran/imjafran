@@ -5,55 +5,51 @@
 ### I am not a very hard-working person, can not waste more time than it needs. I just find the easiest and perfect solution to a problem. Unlike a donkey who works all day and nothing comes out, I prefer working smartly. Neither am I a selfless person nor a man without a personal life. I just keep balances. I make mistakes, take wrong decisions, but I learn from the mistakes I made. 
  
 ### I still solve problems with JavaScript and PHP, promot clean and contemporary software architecture. I have published projects on `NPM`, `Packagist`, `WordPress`, `Chrome Webstore`, `Google Playstore`, `Apple Appstore` and `Shopify Appstore`.
-___
- 
-**Connects**
-[GitHub]: https://github.com/imjafran 
-[HackerRank]: https://www.hackerrank.com/jafran
-[Linkedin]: https://www.linkedin.com/in/iamjafran/
-[WordPress]: https://profiles.wordpress.org/iamjafran/  
-[NPM]: https://www.npmjs.com/settings/iamjafran/packages 
-[Packagist]: https://packagist.org/users/iamjafran/packages/  
-[Stackoverflow]: https://stackoverflow.com/users/11303820/jafran-hasan
-[Facebook]: https://www.facebook.com/IamJafran/
-[email]: mailto:jafraaan@gmail.com 
+___  
+
+### Stacks
+<img src="https://cdn.simpleicons.org/javascript" width=30/> <img src="https://cdn.simpleicons.org/typescript" width=30/><img src="https://cdn.simpleicons.org/php" width=30/><img src="https://cdn.simpleicons.org/json" width=30/><img src="https://cdn.simpleicons.org/wordpress" width=30/><img src="https://cdn.simpleicons.org/laravel" width=30/><img src="https://cdn.simpleicons.org/codeigniter" width=30/><img src="https://cdn.simpleicons.org/node.js" width=30/><img src="https://cdn.simpleicons.org/mongodb" width=30/> <img src="https://cdn.simpleicons.org/vue.js" width=30/><img src="https://cdn.simpleicons.org/react" width=30/><img src="https://cdn.simpleicons.org/electron" width=30/><img src="https://cdn.simpleicons.org/alpine.js" width=30/><img src="https://cdn.simpleicons.org/html5" width=30/><img src="https://cdn.simpleicons.org/css3" width=30/> <img src="https://cdn.simpleicons.org/tailwindcss" width=30/><img src="https://cdn.simpleicons.org/bootstrap" width=30/><img src="https://cdn.simpleicons.org/svg" width=30/><img src="https://cdn.simpleicons.org/npm" width=30/> <img src="https://cdn.simpleicons.org/linux" width=30/> <img src="https://cdn.simpleicons.org/ubuntu" width=30/> <img src="https://cdn.simpleicons.org/shell" width=30/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/mastericons/amazonaws.svg" width=30/>  <img src="https://cdn.simpleicons.org/awsamplify" width=30/>  <img src="https://cdn.simpleicons.org/amazonec2" width=30/> <img src="https://cdn.simpleicons.org/awslambda" width=30/> <img src="https://cdn.simpleicons.org/axios" width=30/> <img src="https://cdn.simpleicons.org/googlecloud" width=30/> <img src="https://cdn.simpleicons.org/googlechrome" width=30/> <img src="https://cdn.simpleicons.org/fastapi" width=30/> <img src="https://cdn.simpleicons.org/stripe" width=30/> <img src="https://cdn.simpleicons.org/apache" width=30/> <img src="https://cdn.simpleicons.org/nginx" width=30/> <img src="https://cdn.simpleicons.org/cpanel" width=30/> <img src="https://cdn.simpleicons.org/alpinelinux" width=30/> 
  
 
-### Connect with me
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/messenger-skyblue.svg?&style=for-the-badge&logo=messenger&logoColor=white" />][Messenger] 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
-[<img alt="GitHub Followers" src="https://img.shields.io/github/followers/imjafran.svg?style=for-the-badge&logo=GitHubSponsors&label=Follow&maxAge=2592000&color=cyan"/>][GitHub]
-[<img alt="EMail" src="https://img.shields.io/badge/EMail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][email]
-
-### Opensource programs published on
-
-[<img alt="WordPress" src="https://img.shields.io/badge/wordpress-7-f0f0f0.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />][WordPress]
-[<img alt="NPM" src="https://img.shields.io/badge/npm-6-ee0000.svg?&style=for-the-badge&logo=npm&logoColor=white" />][NPM]
-[<img alt="Packagist" src="https://img.shields.io/badge/packagist-1-darkorange.svg?&style=for-the-badge&logo=packagist&logoColor=white" />][Packagist]
-<img alt="Webstore" src="https://img.shields.io/badge/webstore-1-red.svg?&style=for-the-badge&logo=packagist&logoColor=white" />
-<img alt="GitHub Repo Counter" src="https://badges.pufler.dev/repos/imjafran?style=for-the-badge&logo=Git&color=638FDA&logoColor=white"/>
+### Published Projects on 
+[![](https://img.shields.io/badge/GitHub-70+-c9510c?&style=for-the-badge&logo=github)](https://github.com/imjafran) 
+[![](https://img.shields.io/badge/WordPress-10+-21759b?&style=for-the-badge&logo=wordpress)](https://profiles.wordpress.org/iamjafran/ )
+[![](https://img.shields.io/badge/NPM-10+-c00?&style=for-the-badge&logo=NPM)](https://www.npmjs.com/~iamjafran)
+[![](https://img.shields.io/badge/Packagist-1-indianred?&style=for-the-badge&logo=packagist)](https://packagist.org/users/iamjafran)
+[![](https://img.shields.io/badge/Chrome%20webstore-1-1a73e8?&style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/is-wp-detects-wordpress-t/enohbojoeceihccbalgijnfbhbinfllf)
 
 
-<img alt="Jafran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imjafran&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Some awesome tool for developers
+[![](https://img.shields.io/badge/Readme%20Fy--666?&style=for-the-badge&logo=vue.js)](https://readme.appdets.com) <br> A one page application to edit, generate and validate Readme.txt for your WordPress project.
+
+### Connect me on 
+
+[![](https://img.shields.io/badge/LinkedIn-green?logo=linkedin&style=social)](https://www.linkedin.com/in/iamjafran)
+[![](https://img.shields.io/badge/StackOverflow-green?logo=StackOverflow&style=social)](https://stackoverflow.com/users/11303820/jafran-hasan)
+[![](https://img.shields.io/badge/HackerRank-295?&style=social&logo=hackerrank&logoColor=darkgreen)](https://www.hackerrank.com/jafran)
+[![](https://img.shields.io/badge/Facebook-green?logo=facebook&style=social)](https://fb.com/iamjafran)
+[![](https://img.shields.io/badge/LinkedIn-green?logo=linkedin&style=social)](https://www.linkedin.com/in/iamjafran)
+
+
+GitHub Stats <br>
+![](https://github-readme-stats.vercel.app/api?username=imjafran&show_icons=true&theme=tokyonight&hide_border=true)
 
 # Technical Skills
 
 |  |  |
 |----------:|-------------|
-| **JavScript** | VanillaJS, TypeScript, NodeJS, ExpressJS, ElectronJS, VueJS, React, jQuery, Ajax, Modern JavaScript (ES6+, ESNext), asynchronous operations, OOP, webRTC, etc |
-| **CSS** | CSS3, SASS, LESS, TailwindCSS, Bootstrap etc |
-| **PHP** | OOP, MVC architecture, WordPress (Theme & Plugin development), Laravel, Codeigniter, UnitTesting |
-| **Database** | MySQL, NoSQL (mongodb) |
-| **WordPress** | Developed Premium WordPress Plugin.Contributed to WordPress repositories, published 5+ successful premium plugins on WordPress.org. Well experienced in WordPress hooks, APIs, ajax, queries, metabox, and core functionalities. Built Gutenberg blocks, Elementor widgets, integrated with hundreds of tools. |
+| **JavaScript** | VanillaJS, TypeScript, NodeJS, Vue.js (Router, Pinia, Composition API), React, jQuery, Ajax, Modern JavaScript (ES6, ES7, ES8, ...ESNext), asynchronous, OOP, webRTC, ExpressJS, ElectronJS etc |
+| **Styles** | CSS3, SASS, LESS, TailwindCSS, Bootstrap etc |
+| **PHP** | 5.6-8.1, OOP, MVC, WordPress (Theme & Plugin development), Laravel, Codeigniter, UnitTesting |
+| **Database** | MySQL, MongoDB, PostgreSQL |
+| **WordPress** | Developed Premium WordPress Plugin. Contributed to WordPress repositories, published 10+ successful premium plugins on WordPress.org. Well experienced in WordPress hooks, REST APIs, ajax, queries, metabox, post-term-taxonomy relationships, corn job, headless WordPress, extending developing features and core functionalities. Built Gutenberg blocks, Elementor widgets, integrated with hundreds of tools and APIs. |
 | **NodeJS** | Worked as MEVN stack. Well experienced in ExpressJS and MongoDB. Worked on SaaS applications, WebSockets, real-time communications. Worked on both Desktop and Mobile applications using ElectronJS and React Native.|
-| **Specialty** | Algorithmic and resource friendly software architecture, software security and unit testing. REST/RESTfull API, WebSocket, Webhooks, Database Design, Software architecture and pattern. Agile Scrum, SaaS, Headless WordPress, Single Page Application, Serverless app, JWT, oAuth2 |
-| **DevOps** | AWS, Google Cloud |
-| **Utility** | Version Control (Git, SVN), CLI, Bundler (webpack)|
-| **Unix** | Very comfortable and native with Linux Environment (LAMPP Stack). Well experienced in Unix Shell, SSH, CLI, and other Unix tools. |
-| **Browser** | Developed Browser Web Extenstion, which is published on Chrome Webstore and available for Chrome, Brave and other chromium instances. |
-| **Others** | Well skilled and experienced in developing Shopify app, Slack app, Chrome extensions, Mobile apps using Dart & Flutter, etc. Experienced in integrating custom payment getaway/interface (Stripe, Paypal) |
+| **Specialty** | Algorithmic and resource friendly software architecture, software security and unit testing. REST/RESTfull API, WebSocket, Webhooks, Database Design, Software architecture and pattern. Agile Scrum, SaaS (Software as a Service), BaaS (Backend as a Service), Headless WordPress, PWA (Progressive Web App), Service Worker, Single Page application, Multipage application, Serverless application (AWS Lambda, Google Functions), JWT, oAuth2 |
+| **Cloud** | AWS (Amazon Web Service) - Lightsail, SES, S3, EC, Google Cloud - Storage, Firebase, Sheet/Docs API, AppScript |
+| **Utility** | Version Control (Git, SVN, BitBucket), Bundler (webpack)|
+| **Unix** | Very comfortable and native with Linux Environment (LAMPP Stack) and macOS both. Well experienced in Unix Shell, SSH, CLI, and other Unix tools. |
+| **Browser** | Developed Browser Web Extension, which is published on Chrome Webstore and available for Chrome, Brave and other chromium instances. |
+| **Others** | Well skilled and experienced in developing Shopify app, Slack app, Chrome extensions, Mobile apps using Dart & Flutter, etc. Experienced in integrating custom payment getaway/interface (Stripe, Paypal REST API) |
 
 # Professional Experiences
 #### [WPPOOL](https://wppool.dev)
@@ -71,18 +67,12 @@ February 2019 - December 2019
 #### [Global IT & Language Institute](https://global.edu.bd/)
 *Department Head - Web Design & Development* <br>
 March 2018 – September 2019
-
-#### [ReturnXero](https://global.edu.bd/)
-*Web Developer* <br>
-December 2017 – March 2018
-
+ 
 
 # Academic Qualification
 
 #### Southeast University
-Bachelor of Science in Computer Science and Engineering
+BSc in Computer Science and Engineering
  
 #### Dhaka Polytechnic Institute
-Diploma in Engineering<br>
-Computer Technology
-
+Diploma in Engineering in Computer Technology
