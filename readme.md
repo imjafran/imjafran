@@ -1,20 +1,21 @@
-<h1 align="center">Hi, I'm Jafran 🖖</h1>
+<h1 align="center">Hi 🖖, I'm Jafran</h1>
 
-### I'm a FullStack Web Application Software Developer and work for [WPPOOL](https://www.wppool.dev) as *Senior Software Engineer*.
+### I'm a FullStack Web Application Software Developer and currently working for [WPPOOL](https://www.wppool.dev) as *Senior Software Engineer*.
 
 ### I am not a very hard-working person, can not waste more time than it needs. I just find the easiest and perfect solution to a problem. Unlike a donkey who works all day and nothing comes out, I prefer working smartly. Neither am I a selfless person nor a man without a personal life. I just keep balances. I make mistakes, take wrong decisions, but I learn from the mistakes I made. 
  
-### I still solve problems with JavaScript and PHP, promot clean and contemporary software architecture. I have published projects on `NPM`, `Packagist`, `WordPress` and `Shopify appstore` as open-source program. I believe, coding is science and science should be free. 
+### I still solve problems with JavaScript and PHP, promot clean and contemporary software architecture. I have published projects on `NPM`, `Packagist`, `WordPress`, `Chrome Webstore`, `Google Playstore`, `Apple Appstore` and `Shopify Appstore`.
 ___
-
-[Facebook]: https://www.facebook.com/IamJafran/
-[Messenger]: https://m.me/IamJafran
+ 
+**Connects**
+[GitHub]: https://github.com/imjafran 
+[HackerRank]: https://www.hackerrank.com/jafran
 [Linkedin]: https://www.linkedin.com/in/iamjafran/
 [WordPress]: https://profiles.wordpress.org/iamjafran/  
+[NPM]: https://www.npmjs.com/settings/iamjafran/packages 
 [Packagist]: https://packagist.org/users/iamjafran/packages/  
-[NPM]: https://www.npmjs.com/settings/iamjafran/packages  
-[GitHub]: https://github.com/imjafran 
 [Stackoverflow]: https://stackoverflow.com/users/11303820/jafran-hasan
+[Facebook]: https://www.facebook.com/IamJafran/
 [email]: mailto:jafraaan@gmail.com 
  
 
