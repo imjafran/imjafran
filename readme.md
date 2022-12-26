@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🖖, I'm Jafran</h1>
 
 ### I'm a `Fool Stucked` Web Application Developer. Just kidding! 
-Currently working for [WPPOOL](https://www.wppool.dev) as *Senior Software Engineer* (I don't know yet why they call me senior!).
+### Currently working for [WPPOOL](https://www.wppool.dev) as *Senior Software Engineer* (I don't know yet why they call me senior!).
 
-### I am not a very hard-working person, can not waste more time than it needs. I just find the easiest and perfect solution to a problem. Unlike a donkey who works all day and nothing comes out, I prefer working smartly. THough I make mistakes, take wrong decisions, argue with QA team, manipulate product designers but I learn from the mistakes I made. I pretend to be a good programmer and I am satisfied with my acting. 
+### I am not a very hard-working person, can not waste more time than it needs. I just find the easiest and perfect solution to a problem. Unlike a donkey who works all day and nothing comes out, I prefer working smartly. Though I make mistakes, take wrong decisions, argue with QA team, manipulate product designers but I learn from the mistakes I made. I pretend to be a good programmer and I am satisfied with my acting. 
  
 ### I still solve problems with JavaScript and PHP, promot clean and contemporary software architecture. I have published projects on `NPM`, `Packagist`, `WordPress`, `Chrome Webstore`, `Google Playstore`, `Apple Appstore` and `Shopify Appstore` for free because I know I can't make money from my own projects. 
 ___  
