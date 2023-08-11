@@ -1,11 +1,13 @@
 <h1 align="center">Hi 🖖, I'm Jafran</h1>
 
-### I'm a `Fool Stucked` Web Application Developer. Just kidding! 
-### Currently working for [WPPOOL](https://www.wppool.dev) as *Senior Software Engineer* (I don't know yet why they call me senior!).
+## Hey there! 
+### So, on paper, I'm a Software Engineer and I've had a bunch of other fancy titles like Senior Software Engineer, Lead Software Engineer and Full Stack Developer bla bla. Most of my work life revolves around messing with JavaScript and PHP. But honestly? I just love coding and I'm game to pick up any new language that comes my way. I'm all about staying in the loop with the latest tech stuff.
 
-### I am not a very hard-working person, can not waste more time than it needs. I just find the easiest and perfect solution to a problem. Unlike a donkey who works all day and nothing comes out, I prefer working smartly. Though I make mistakes, take wrong decisions, argue with QA team, manipulate product designers but I learn from the mistakes I made. I pretend to be a good programmer and I am satisfied with my acting. 
+### I'm not the kind to burn the midnight oil for no reason. I mean, why break a sweat when you can find a cool shortcut or a clever way to get the job done? It's like, instead of being that hard-working donkey, I'd rather be that smart fox, you know? Think more, code less. After all, fireflies might light up fast but fade away quickly, while stars? They take their sweet time but shine the brightest.
+
+### All in all, I'm not your typical corporate dude. I'm all about keeping it chill and real, even on LinkedIn. And honestly? I'm pretty happy with where I'm at. Life's good.
  
-### I still solve problems with JavaScript and PHP, promot clean and contemporary software architecture. I have published projects on `NPM`, `Packagist`, `WordPress`, `Chrome Webstore`, `Google Playstore`, `Apple Appstore` and `Shopify Appstore` for free because I know I can't make money from my own projects. 
+### I love to solve problems with JavaScript and PHP, promot clean and contemporary software architecture, coding standards, and documentation. I have published projects on `NPM`, `Packagist`, `WordPress`, `Chrome Webstore`, `Google Playstore`, `Apple Appstore` and `Shopify Appstore`. 
 ___  
 
 ### Stacks
@@ -35,15 +37,15 @@ ___
 GitHub Stats <br>
 ![](https://github-readme-stats.vercel.app/api?username=imjafran&show_icons=true&theme=tokyonight&hide_border=true)
 
-# Technical Skills
+# Professional Technical Skills
 
 |  |  |
 |----------:|-------------|
-| **JavaScript** | VanillaJS, TypeScript, NodeJS, Vue.js (Router, Pinia, Composition API), React, jQuery, Ajax, Modern JavaScript (ES6, ES7, ES8, ...ESNext), asynchronous, OOP, webRTC, ExpressJS, ElectronJS etc |
-| **Styles** | CSS3, SASS, LESS, TailwindCSS, Bootstrap etc |
-| **PHP** | 5.6-8.1, OOP, MVC, WordPress (Theme & Plugin development), Laravel, Codeigniter, UnitTesting |
+| **JavaScript** | VanillaJS, TypeScript, NodeJS, Vue.js (Vue3, Router, State management, Composition API), React, jQuery, Ajax, Modern JavaScript (ES6, ES7, ES8, ...ESNext), asynchronous, OOP, webRTC, ExpressJS, ElectronJS etc |
+| **Styles** | CSS3, SASS, LESS, TailwindCSS, PostCSS, Bootstrap etc |
+| **PHP** | OOP, MVC, WordPress (Theme & Plugin development), Laravel, Codeigniter, UnitTesting |
 | **Database** | MySQL, MongoDB, PostgreSQL |
-| **WordPress** | Developed Premium WordPress Plugin. Contributed to WordPress repositories, published 10+ successful premium plugins on WordPress.org. Well experienced in WordPress hooks, REST APIs, ajax, queries, metabox, post-term-taxonomy relationships, corn job, headless WordPress, extending developing features and core functionalities. Built Gutenberg blocks, Elementor widgets, integrated with hundreds of tools and APIs. |
+| **WordPress** | Developed Premium WordPress Plugin. Contributed to WordPress repositories, published 15+ successful premium plugins on WordPress.org. Well experienced in WordPress hooks, REST APIs, ajax, queries, metabox, post-term-taxonomy relationships, corn job, headless WordPress, extending developing features and core functionalities. Built Gutenberg blocks, Elementor widgets, integrated with hundreds of tools and APIs. |
 | **NodeJS** | Worked as MEVN stack. Well experienced in ExpressJS and MongoDB. Worked on SaaS applications, WebSockets, real-time communications. Worked on both Desktop and Mobile applications using ElectronJS and React Native.|
 | **Specialty** | Algorithmic and resource friendly software architecture, software security and unit testing. REST/RESTfull API, WebSocket, Webhooks, Database Design, Software architecture and pattern. Agile Scrum, SaaS (Software as a Service), BaaS (Backend as a Service), Headless WordPress, PWA (Progressive Web App), Service Worker, Single Page application, Multipage application, Serverless application (AWS Lambda, Google Functions), JWT, oAuth2 |
 | **Cloud** | AWS (Amazon Web Service) - Lightsail, SES, S3, EC, Google Cloud - Storage, Firebase, Sheet/Docs API, AppScript |
