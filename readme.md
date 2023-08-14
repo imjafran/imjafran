@@ -5,7 +5,7 @@
 
 ### I'm not the kind to burn the midnight oil for no reason. I mean, why break a sweat when you can find a cool shortcut or a clever way to get the job done? It's like, instead of being that hard-working donkey, I'd rather be that smart fox, you know? Think more, code less. After all, fireflies might light up fast but fade away quickly, while stars? They take their sweet time but shine the brightest.
 
-### All in all, I'm not your typical corporate dude. I'm all about keeping it chill and real, even on LinkedIn. And honestly? I'm pretty happy with where I'm at. Life's good.
+### All in all, I'm not your typical corporate dude. I'm all about keeping it chill and real, even on GitHub. And honestly? I'm pretty happy with where I'm at. Life's good.
  
 ### I love to solve problems with JavaScript and PHP, promot clean and contemporary software architecture, coding standards, and documentation. I have published projects on `NPM`, `Packagist`, `WordPress`, `Chrome Webstore`, `Google Playstore`, `Apple Appstore` and `Shopify Appstore`. 
 ___  
