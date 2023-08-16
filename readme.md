@@ -41,18 +41,18 @@ GitHub Stats <br>
 
 |  |  |
 |----------:|-------------|
-| **JavaScript** | VanillaJS, TypeScript, NodeJS, Vue.js (Vue3, Router, State management, Composition API), React, jQuery, Ajax, Modern JavaScript (ES6, ES7, ES8, ...ESNext), asynchronous, OOP, webRTC, ExpressJS, ElectronJS etc |
-| **Styles** | CSS3, SASS, LESS, TailwindCSS, PostCSS, Bootstrap etc |
-| **PHP** | OOP, MVC, WordPress (Theme & Plugin development), Laravel, Codeigniter, UnitTesting |
+| **JavaScript** | VanillaJS, TypeScript, NodeJS, Vue.js (Vue3, Router, State management, Composition API), React, jQuery, Ajax, Modern JavaScript (ES6, ESNext), asynchronous, OOP, webRTC, ExpressJS, ElectronJS, AlpineJS etc |
+| **Styles** | CSS3, SASS, LESS, TailwindCSS, PostCSS etc |
+| **PHP** | OOP, MVC, WordPress (Theme & Plugin development), Laravel, Codeigniter, UnitTesting. Has own microframework on PHP |
 | **Database** | MySQL, MongoDB, PostgreSQL |
-| **WordPress** | Developed Premium WordPress Plugin. Contributed to WordPress repositories, published 15+ successful premium plugins on WordPress.org. Well experienced in WordPress hooks, REST APIs, ajax, queries, metabox, post-term-taxonomy relationships, corn job, headless WordPress, extending developing features and core functionalities. Built Gutenberg blocks, Elementor widgets, integrated with hundreds of tools and APIs. |
+| **WordPress** | Developed countable WordPress Plugins. Contributed to WordPress repositories, published 15+ successful fremium plugins on WordPress.org. Well experienced in WordPress hooks, REST APIs, ajax, queries, relationships, headless WordPress, extending developed yet features and core functionalities. Built Gutenberg blocks, Elementor widgets, integrated with hundreds of other plugins, tools and APIs. |
 | **NodeJS** | Worked as MEVN stack. Well experienced in ExpressJS and MongoDB. Worked on SaaS applications, WebSockets, real-time communications. Worked on both Desktop and Mobile applications using ElectronJS and React Native.|
-| **Specialty** | Algorithmic and resource friendly software architecture, software security and unit testing. REST/RESTfull API, WebSocket, Webhooks, Database Design, Software architecture and pattern. Agile Scrum, SaaS (Software as a Service), BaaS (Backend as a Service), Headless WordPress, PWA (Progressive Web App), Service Worker, Single Page application, Multipage application, Serverless application (AWS Lambda, Google Functions), JWT, oAuth2 |
+| **Specialty** | Algorithmic and resource friendly software architecture, complex relational database design, software security and unit testing. REST/RESTfull API, Software documentation, WebSocket, Webhooks, Database Design, Software tones and patterns. Agile Scrum, SaaS (Software as a Service), BaaS (Backend as a Service), Headless WordPress, PWA (Progressive Web App), Service Worker, Single Page application, Multipage application, Serverless application (AWS Lambda, Google Functions), JWT, oAuth2 |
 | **Cloud** | AWS (Amazon Web Service) - Lightsail, SES, S3, EC, Google Cloud - Storage, Firebase, Sheet/Docs API, AppScript |
-| **Utility** | Version Control (Git, SVN, BitBucket), Bundler (webpack)|
+| **Utility** | Version Control (Git, SVN, BitBucket), webpack, vite|
 | **Unix** | Very comfortable and native with Linux Environment (LAMPP Stack) and macOS both. Well experienced in Unix Shell, SSH, CLI, and other Unix tools. |
-| **Browser** | Developed Browser Web Extension, which is published on Chrome Webstore and available for Chrome, Brave and other chromium instances. |
-| **Others** | Well skilled and experienced in developing Shopify app, Slack app, Chrome extensions, Mobile apps using Dart & Flutter, etc. Experienced in integrating custom payment getaway/interface (Stripe, Paypal REST API) |
+| **Browser** | Developed Browser Web Extension, which is published on Chrome Webstore and available for Chrome, Brave and other chromium instances. Friendly with experimental web APIs |
+| **Others** | Well skilled and experienced in developing Shopify app, Slack app, Chrome extensions, Mobile apps using (Dart & Flutter, React native), etc. Experienced in integrating custom payment getaway/interface (Stripe, Paypal REST API) |
 
 # Professional Experiences
 #### [WPPOOL](https://wppool.dev)
