@@ -1,13 +1,13 @@
 <h1 align="center">Hi 🖖, I'm Jafran</h1>
 
-## Hey there! 
-### So, on paper, I'm a Software Engineer and I've had a bunch of other fancy titles like Senior Software Engineer, Lead Software Engineer and Full Stack Developer bla bla. Most of my work life revolves around messing with JavaScript and PHP. But honestly? I just love coding and I'm game to pick up any new language that comes my way. I'm all about staying in the loop with the latest tech stuff.
+##Hey there! 
+###So, on paper, I'm a Software Engineer and I've had a bunch of other fancy titles like Senior Software Engineer, Lead Software Engineer and Full Stack Developer bla bla. Most of my work life revolves around messing with JavaScript and PHP. But honestly? I just love coding and I'm game to pick up any new language that comes my way. I'm all about staying in the loop with the latest tech stuff.
 
-### I'm not the kind to burn the midnight oil for no reason. I mean, why break a sweat when you can find a cool shortcut or a clever way to get the job done? It's like, instead of being that hard-working donkey, I'd rather be that smart fox, you know? Think more, code less. After all, fireflies might light up fast but fade away quickly, while stars? They take their sweet time but shine the brightest.
+###I'm not the kind to burn the midnight oil for no reason. I mean, why break a sweat when you can find a cool shortcut or a clever way to get the job done? It's like, instead of being that hard-working donkey, I'd rather be that smart fox, you know? Think more, code less. After all, fireflies might light up fast but fade away quickly, while stars? They take their sweet time but shine the brightest.
 
-### All in all, I'm not your typical corporate dude. I'm all about keeping it chill and real, even on GitHub. And honestly? I'm pretty happy with where I'm at. Life's good.
+###All in all, I'm not your typical corporate dude. I'm all about keeping it chill and real, even on GitHub. And honestly? I'm pretty happy with where I'm at. Life's good.
  
-### I love to solve problems with JavaScript and PHP, promot clean and contemporary software architecture, coding standards, and documentation. I have published projects on `NPM`, `Packagist`, `WordPress`, `Chrome Webstore`, `Google Playstore`, `Apple Appstore` and `Shopify Appstore`. 
+###I love to solve problems with JavaScript and PHP, promot clean and contemporary software architecture, coding standards, and documentation. I have published projects on `NPM`, `Packagist`, `WordPress`, `Chrome Webstore`, `Google Playstore`, `Apple Appstore` and `Shopify Appstore`. 
 ___  
 
 ### Stacks
